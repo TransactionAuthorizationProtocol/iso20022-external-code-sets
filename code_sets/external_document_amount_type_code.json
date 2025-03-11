@@ -1,0 +1,32 @@
+{
+  "codes": {
+    "APDS": "Addition discount based on third-party agreed business promotional activity, i.e., extra 10 percent discount for 15 days)",
+    "CHAR": "Amount is new charges, for example new charges on a credit card.",
+    "CITY": "Tax accessed by city jurisdictions within a country.",
+    "CNTY": "Tax accessed by county jurisdictions within a country.",
+    "CREN": "Amount is a credit note.",
+    "CRTL": "Amount is available credit.",
+    "DUPA": "Amount is due payable.",
+    "ESCO": "Amount is in escrow.",
+    "FEES": "Amount is fees.",
+    "INSU": "Amount is insurance.",
+    "INTC": "Amount is interest charges, or example interest charges on a credit card.",
+    "INTE": "Amount is the interest.",
+    "LOCL": "Tax accessed by local jurisdictions within a country.",
+    "MIDU": "Amount is the minimum due.",
+    "OBAL": "Amount is the outstanding balance.",
+    "PADU": "Amount is past due.",
+    "PBAL": "Amount is the previous balance.",
+    "PRIN": "Amount is the outstanding principal.",
+    "PROV": "Tax accessed by province jurisdictions within a country.",
+    "REMI": "Amount remitted.",
+    "SBAL": "Amount is the statement balance.",
+    "STAT": "Tax accessed by state jurisdictions within a country.",
+    "STDS": "Discount based on volume purchased.",
+    "TAXS": "Amount is tax.",
+    "TMDS": "Discount based on terms negotiated for payment within a specified time period, i.e., 2/10 Net 30 (2 percent discount if paid in 10 days; otherwise, net amount is due in 30 days).",
+    "TOTA": "Amount is the total."
+  },
+  "description": "Specifies the nature, or use, of the amount, as published in an external document amount type code set.",
+  "name": "ExternalDocumentAmountType1Code"
+}

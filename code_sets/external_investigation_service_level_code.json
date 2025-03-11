@@ -1,0 +1,11 @@
+{
+  "codes": {
+    "R01D": "Response expected within one business day.",
+    "R03D": "Response expected within three business days.",
+    "R05D": "Response expected within five business days.",
+    "R10D": "Response expected within ten business days.",
+    "R15D": "Response expected within fifteen business days."
+  },
+  "description": "Specifies the investigation service level, as published in an external investigation service level code set.",
+  "name": "ExternalInvestigationServiceLevel1Code"
+}

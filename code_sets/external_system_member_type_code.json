@@ -1,0 +1,11 @@
+{
+  "codes": {
+    "DRCT": "Member has full rights in the system. In principle, this membership status entails financial responsibility for its own operations and sponsored members' operations submitted to the system.",
+    "EURO": "Member is entitled to access the Euro1 system of the Euro Banking Association (EBA).",
+    "IDRT": "Member has limited rights in the system specifications. In principle, this membership status entails no financial responsibility for its operations submitted to the system.",
+    "RMTE": "Member has access to the system from a remote location or through remote technical means.",
+    "STEP": "Member is entitled to access the Step1 system of the Euro Banking Association (EBA)."
+  },
+  "description": "Specifies the nature of the membership of a party in a system, as published in an external system member type code set.",
+  "name": "ExternalSystemMemberType1Code"
+}

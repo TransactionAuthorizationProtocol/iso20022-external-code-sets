@@ -1,0 +1,19 @@
+{
+  "codes": {
+    "ADVP": "Party advising the undertaking.",
+    "ANYB": "Any bank.",
+    "APPL": "Party named in the undertaking as the \u201capplicant\u201d.",
+    "BENE": "Party in whose favour the undertaking (or counter-undertaking) is issued.",
+    "CONF": "Party that adds its undertaking to honour the undertaking.",
+    "CUB2": "Beneficiary of the second counter-undertaking.",
+    "CUB3": "Beneficiary of the third counter-undertaking.",
+    "ISSU": "Party that issues the undertaking (or counter-undertaking).",
+    "OBLG": "Party obligated to reimburse the issuer.",
+    "ORDR": "Party requested to issue an undertaking on behalf of the applicant. Also known as the ordering institution or applicant's bank.",
+    "PRES": "Party nominated to receive presentation.",
+    "SADV": "Second advising party.",
+    "SPEC": "Party located at specified address."
+  },
+  "description": "Specifies the external type of party code in the format of a character string with a maximum length of 4 characters. The list of valid codes is an external code list published separately.",
+  "name": "ExternalTypeOfParty1Code"
+}

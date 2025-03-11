@@ -1,0 +1,13 @@
+{
+  "codes": {
+    "CONT": "Underlying transaction is a contract.",
+    "DELV": "Underlying transaction is a delivery order.",
+    "PROF": "Underlying transaction is a proforma invoice.",
+    "PROJ": "Underlying transaction is a project.",
+    "PUOR": "Underlying transaction is a purchase order.",
+    "QUOT": "Underlying transaction is a quotation.",
+    "TEND": "Underlying transaction is a tender."
+  },
+  "description": "Specifies the external commercial reference type code in the format of a character string with a maximum length of 4 characters. The list of valid codes is an external code list published separately.",
+  "name": "ExternalUnderlyingTradeTransactionType1Code"
+}

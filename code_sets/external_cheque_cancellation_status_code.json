@@ -1,0 +1,8 @@
+{
+  "codes": {
+    "ACCR": "Cheque cancellation request or request to stop the cheque is accepted.",
+    "RJCR": "Cheque cancellation request or request to stop the cheque is rejected."
+  },
+  "description": "Specifies the external cheque cancellation status code in the format of character string with a maximum length of 4 characters.",
+  "name": "ExternalChequeCancellationStatus1Code"
+}

@@ -1,0 +1,25 @@
+{
+  "codes": {
+    "MS01": "RemittanceInformation is missing.",
+    "MS02": "Instruction for next agent is missing (former MissingSenderToReceiverInformation split into debtor, credit and next agent information).",
+    "MS03": "Debtor is missing.",
+    "MS04": "DebtorAccount is missing.",
+    "MS05": "DebtorAgent is missing (former MissingFirstAgent for credit transfers).",
+    "MS06": "Amount is missing.",
+    "MS07": "SettlementAccount is missing. (former MissingNostroVostroAccount).",
+    "MS08": "Intermediary is missing.",
+    "MS09": "InstructingReimbursementAgent is missing (former MissingReimbursementAgent1).",
+    "MS10": "InstructedReimbursementAgent is missing (former MissingReimbursementAgent2).",
+    "MS11": "Third reimbursement agent is missing (former MissingReimbursementAgent).",
+    "MS12": "Creditor is missing.",
+    "MS13": "CreditorAccount is missing.",
+    "MS14": "Payment instruction is missing.",
+    "MS15": "Creditor agent is missing (former MissingFirstAgent for direct debits).",
+    "MS16": "Instruction for creditor agent is missing (former MissingSenderToReceiverInformation split into debtor, credit and next agent information).",
+    "MS17": "Instruction for debtor agent is missing (former MissingSenderToReceiverInformation split into debtor, credit and next agent information).",
+    "MS18": "RelatedRemittanceInformation is missing.",
+    "NARR": "See narrative field for additional information."
+  },
+  "description": "Specifies the reason of an unable to apply due to missing data, as published in an external unable to apply missing data code set.",
+  "name": "ExternalUnableToApplyMissingData1Code"
+}

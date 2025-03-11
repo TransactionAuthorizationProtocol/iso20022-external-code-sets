@@ -1,0 +1,12 @@
+{
+  "codes": {
+    "AM05": "Duplication.",
+    "CUST": "Cancellation requested by the customer.",
+    "RF01": "Reference is not unique.",
+    "RR04": "Regulatory Reason.",
+    "TRJT": "Technical rejection.",
+    "UCRD": "Unknown creditor."
+  },
+  "description": "Specifies the creditor enrolment cancellation reason code, as published in an external creditor enrolment cancellation reason code set.",
+  "name": "ExternalCreditorEnrolmentCancellationReason1Code"
+}

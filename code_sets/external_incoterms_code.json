@@ -1,0 +1,17 @@
+{
+  "codes": {
+    "CFR": "Cost and Freight (sea and inland waterway transport) - Incoterms 2010",
+    "CIF": "Cost, Insurance and Freight (sea and inland waterway transport) - Incoterms 2010",
+    "CIP": "Carriage and Insurance Paid To (any mode of transport, including multimodal) - Incoterms 2010",
+    "CPT": "Carriage Paid To (any mode of transport, including multimodal) - Incoterms 2010",
+    "DAP": "Delivered at Place (any mode of transport, including multimodal) - Incoterms 2010",
+    "DAT": "Delivered at Terminal (any mode of transport, including multimodal) - Incoterms 2010",
+    "DDP": "Delivered Duty Paid (any mode of transport, including multimodal) - Incoterms 2010",
+    "EXW": "Ex Works (any mode of transport, including multimodal) - Incoterms 2010",
+    "FAS": "Free Alongside Ship (sea and inland waterway transport) - Incoterms 2010",
+    "FCA": "Free Carrier (any mode of transport, including multimodal) - Incoterms 2010",
+    "FOB": "Free On Board (sea and inland waterway transport) - Incoterms 2010"
+  },
+  "description": "Specifies the incoterms, as published in an external incoterms code list.",
+  "name": "ExternalIncoterms1Code"
+}

@@ -1,0 +1,11 @@
+{
+  "codes": {
+    "MNTH": "Frequency is monthly.",
+    "QUTR": "Frequency is quarterly (every three months).",
+    "SEMI": "Frequency is semi-annual (every six months).",
+    "TOMN": "Frequency is two-monthly (every two months).",
+    "YEAR": "Frequency is annual."
+  },
+  "description": "Specifies the external date frequency code in the format of a character string with a maximum length of 4 characters. The list of valid codes is an external code list published separately.",
+  "name": "ExternalDateFrequency1Code"
+}

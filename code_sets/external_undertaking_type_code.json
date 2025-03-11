@@ -1,0 +1,20 @@
+{
+  "codes": {
+    "APAY": "Undertaking in support of an advance payment obligation.",
+    "COMM": "Undertaking in support of a commercial obligation.",
+    "CUST": "Undertaking in support of a customs duty obligation.",
+    "DPAY": "Undertaking representing the primary means of payment.",
+    "FINC": "Undertaking in support of a financial obligation.",
+    "INSU": "Undertaking in support of a insurance obligation.",
+    "IRBO": "Undertaking in support of an Industrial Revenue Board (IRB) obligation.",
+    "MAIN": "Undertaking in support of a maintenance obligation.",
+    "PAYM": "Undertaking in support of a payment obligation.",
+    "PERF": "Undertaking in support of a performance obligation.",
+    "RETN": "Undertaking in support of a monetary retention obligation.",
+    "SHIP": "Undertaking in support of a sea transportation obligation.",
+    "TEND": "Undertaking in support of a tender or bid obligation.",
+    "WARR": "Undertaking in support of a warranty obligation."
+  },
+  "description": "Specifies the external undertaking type code in the format of a character string with a maximum length of 4 characters. The list of valid codes is an external code list published separately.",
+  "name": "ExternalUndertakingType1Code"
+}

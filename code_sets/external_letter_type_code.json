@@ -1,0 +1,9 @@
+{
+  "codes": {
+    "LFBK": "Document is a letter from the bank.",
+    "LTBK": "Document is a letter to the bank.",
+    "SUPP": "Document is a supporting document."
+  },
+  "description": "Specifies the letter type as published in an external letter type code list.",
+  "name": "ExternalLetterType1Code"
+}

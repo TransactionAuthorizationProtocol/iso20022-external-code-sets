@@ -1,0 +1,10 @@
+{
+  "codes": {
+    "FAXI": "Technical Input Channel is fax or facsimile",
+    "PAPR": "Technical Input Channel is paper",
+    "TAPE": "Technical Input Channel is tape",
+    "WEBI": "Technical Input Channel is internet"
+  },
+  "description": "Specifies the technical input channel, as published in an external technical input channel code list.",
+  "name": "ExternalTechnicalInputChannel1Code"
+}

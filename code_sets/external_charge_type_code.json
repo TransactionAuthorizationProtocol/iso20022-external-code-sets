@@ -1,0 +1,20 @@
+{
+  "codes": {
+    "ACCM": "Account maintenance fee.",
+    "AMND": "Payment order was changed based on request to do so from the (original) sending bank or as a result of receiving amended information from the (original) sending bank.",
+    "BRKF": "Fee paid to a broker for services provided.",
+    "BTCH": "Fee paid for processing a batch of transactions.",
+    "CFEE": "Used when fees are assessed for cancellation of a payment.",
+    "CLEF": "Used when fees are assessed for standard processing of financial institution type transfers.",
+    "COMM": "Fee paid for services provided.",
+    "DEBT": "Claim is being submitted in response to receiving a customer credit transfer with DEBT in Charge Bearer code.",
+    "INTE": "Interest related charges.",
+    "INVS": "Charges related to the processing of an investigation case/inquiry.",
+    "NSTP": "Charge for a payment that required an intervention during processing.",
+    "RECH": "Charge for a reporting message (camt.05X).",
+    "SUMM": "Summation of individual fees.",
+    "TELE": "Charges relating to the most appropriate and efficient means of telecommunications available, for example, SWIFT, telex, telephone, facsimile, as determined by the party executing the payment instruction."
+  },
+  "description": "Specifies the nature, or use, of the charges in the format of character string with a maximum length of 4 characters.",
+  "name": "ExternalChargeType1Code"
+}

@@ -1,0 +1,20 @@
+{
+  "codes": {
+    "CHQB": "(Ultimate) creditor must be paid by cheque.",
+    "HOLD": "Amount of money must be held for the (ultimate) creditor, who will call. Pay on identification.",
+    "PHOB": "Please advise/contact (ultimate) creditor/claimant by phone.",
+    "PRTK": "Indicates that a payer token is requested/used.",
+    "RECI": "Further information regarding the intended recipient.",
+    "SEID": "Use of Secondary Identification of Creditor Account (which may relate to Head Office Collection Account, Building Society Roll Number or Credit Card Primary Account Number).",
+    "TELB": "Please advise/contact (ultimate) creditor/claimant by the most efficient means of telecommunication.",
+    "TKCM": "Token found with counterparty mismatch.",
+    "TKSG": "Single Use Token already used.",
+    "TKSP": "Token found with suspended status.",
+    "TKVE": "Token found with value limit rule violation.",
+    "TKXP": "Token expired.",
+    "TOKN": "Token information.",
+    "VLTK": "Additional validation information to be used in conjunction with the token."
+  },
+  "description": "Specifies further instructions concerning the processing of a payment instruction, as provided to the creditor agent.",
+  "name": "ExternalCreditorAgentInstruction1Code"
+}

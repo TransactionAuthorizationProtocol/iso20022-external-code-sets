@@ -1,0 +1,18 @@
+{
+  "codes": {
+    "ACCT": "Investigation relating to an account.",
+    "CCNR": "Creditor claims non-receipt of payment.",
+    "CONR": "Creditor agent claims non-receipt of cover or settlement.",
+    "OTHR": "Other request type.",
+    "PINC": "Payment initiation has not been settled or confirmed.",
+    "RIMF": "Request from International Monetary Fund.",
+    "RQCH": "Investigation relating to charges that have been taken or are requested.",
+    "RQDA": "Debit authorisation on an entry is requested.",
+    "RQFI": "Further information is required on a payment, entry, message or instruction.",
+    "RQUF": "Use of funds on an entry is requested.",
+    "RQVA": "Revaluation of an entry is requested.",
+    "UTAP": "A booked entry cannot be applied by the creditor."
+  },
+  "description": "Specifies the investigation type, as published in an external investigation type code set.",
+  "name": "ExternalInvestigationType1Code"
+}

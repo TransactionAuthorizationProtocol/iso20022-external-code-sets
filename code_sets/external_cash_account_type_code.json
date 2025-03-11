@@ -1,0 +1,29 @@
+{
+  "codes": {
+    "CACC": "Account used to post debits and credits when no specific account has been nominated.",
+    "CARD": "Account used for credit card payments.",
+    "CASH": "Account used for the payment of cash.",
+    "CHAR": "Account used for charges if different from the account for payment.",
+    "CISH": "Account used for payment of income if different from the current cash account",
+    "COMM": "Account used for commission if different from the account for payment.",
+    "CPAC": "Account used to post settlement debit and credit entries on behalf of a designated Clearing Participant.",
+    "LLSV": "Account used for savings with special interest and withdrawal terms.",
+    "LOAN": "Account used for loans.",
+    "MGLD": "Account used for a marginal lending facility.",
+    "MOMA": "Account used for money markets if different from the cash account.",
+    "NFCA": "Non-Resident Individual / Entity Foreign Current held domestically.",
+    "NREX": "Account used for non-resident external.",
+    "ODFT": "Account is used for overdrafts.",
+    "ONDP": "Account used for overnight deposits.",
+    "OTHR": "Account not otherwise specified.",
+    "SACC": "Account used to post debit and credit entries, as a result of transactions cleared and settled through a specific clearing and settlement system.",
+    "SLRY": "Accounts used for salary payments.",
+    "SVGS": "Account used for savings.",
+    "TAXE": "Account used for taxes if different from the account for payment.",
+    "TRAN": "A transacting account is the most basic type of bank account that you can get. The main difference between transaction and cheque accounts is that you usually do not get a cheque book with your transacting account and neither are you offered an overdraft facility.",
+    "TRAS": "Account used for trading if different from the current cash account.",
+    "VACC": "Account created virtually to facilitate collection and reconciliation."
+  },
+  "description": "Specifies the nature, or use, of the cash account in the format of character string with a maximum length of 4 characters.",
+  "name": "ExternalCashAccountType1Code"
+}

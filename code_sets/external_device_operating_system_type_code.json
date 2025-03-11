@@ -1,0 +1,11 @@
+{
+  "codes": {
+    "BLCK": "Blackberry operating system.",
+    "DROI": "Android operating system.",
+    "IOSS": "iOS operating System.",
+    "TIZN": "Tizen operating system.",
+    "WIND": "Windows operating system."
+  },
+  "description": "Type of operating system deployed on device, as published separately in an external device operating system type code set.",
+  "name": "ExternalDeviceOperatingSystemType1Code"
+}

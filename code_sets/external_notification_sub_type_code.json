@@ -1,0 +1,12 @@
+{
+  "codes": {
+    "CRED": "Notification is for the credit department.",
+    "LIQI": "Notification is for the liquidity department.",
+    "LOAN": "Notification is for the loans department.",
+    "PAOP": "Notification is for the payment operations department.",
+    "SALE": "Notification is for the sales department.",
+    "SERV": "Notification is for the servicing department."
+  },
+  "description": "Specifies the notification sub type, as published in an external notification sub type code set.",
+  "name": "ExternalNotificationSubType1Code"
+}

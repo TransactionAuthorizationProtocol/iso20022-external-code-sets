@@ -1,0 +1,26 @@
+{
+  "codes": {
+    "ADAC": "Awaiting debit authorisation from customer.",
+    "AGNT": "Request message has been directed at an incorrect agent or party.",
+    "ARDT": "Investigation request not accepted as the transaction has already been returned.",
+    "ARJT": "Underlying transaction already rejected.",
+    "ARPL": "Awaiting reply from customer.",
+    "CACR": "Investigation closed as cancellation request for underlying transaction has been sent.",
+    "CAPR": "Investigation closed as per the request message.",
+    "DU01": "Request message is duplicate, duplicate request message is rejected.",
+    "ESCA": "Special follow-up is taking place.",
+    "FTNA": "Request message forwarded to another agent or party, these may be indicated in NextResponder element.",
+    "G004": "Indicates that the credit claim non receipt investigation is pending as the cover creditor is waiting for the credit of the cover.",
+    "INIT": "Incorrect investigation type used in request message.",
+    "INPO": "Collation of response data is still ongoing.",
+    "LEGL": "Reported when the request cannot be accepted because of regulatory rules.",
+    "NARR": "See ResponseData element for additional information.",
+    "NOAD": "No additional information in relation to the request can be provided.",
+    "NOAS": "No reply from customer.",
+    "NOOR": "Underlying transaction never received.",
+    "PARE": "Response message partially addresses the request, a further response message will follow.",
+    "RR04": "Regulatory Reason."
+  },
+  "description": "Specifies the reason for the investigation status, as published in an external investigation status reason code set.",
+  "name": "ExternalInvestigationStatusReason1Code"
+}

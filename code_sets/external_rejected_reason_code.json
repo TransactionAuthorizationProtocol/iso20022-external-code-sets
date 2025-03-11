@@ -1,0 +1,31 @@
+{
+  "codes": {
+    "AB12": "Process a Batch Removal Instruction with an incorrect Batch Concurrent Sequence.",
+    "AB13": "Invalid routing code send by participant to settlement operator.",
+    "AB15": "Settlement Instruction with invalid account number or specific settlement type.",
+    "AB21": "Processing interbank batch settlement instruction with invalid agreement number for settlement type.",
+    "AB26": "Invalid batch Settlement Instruction received.",
+    "ADEA": "Received after the servicer's deadline",
+    "ASBR": "Acknowledgement of settlement batch received from PSO for settlement.",
+    "BDAY": "Date is not a business day",
+    "CTRC": "Unrecognised or invalid client",
+    "DPRG": "Request has been rejected because the instruction process is in progress or has been processed",
+    "DT07": "Process a Batch Removal Instruction with an incorrect \"Original Creation Date and Time\" for the batch.",
+    "INDT": "Some message details specified in the instruction/request are inconsistent with those that expected",
+    "ISWS": "Invalid settlement window for settlement instruction.",
+    "MISM": "The request cannot be executed. The message requested is not valid",
+    "MISN": "Missing ISIN on settlement instruction.",
+    "NAUT": "Permission to be processed is not granted",
+    "NINS": "Referred instrument does not exist",
+    "NOAC": "Client has no access to the service",
+    "NOFR": "Warning messages that is send to participants when settlement account must be funded.",
+    "RC13": "Originator of the instruction is not an active participant in RTGS.",
+    "RC14": "Participant is in BCP no settlement instruction for CLS.",
+    "RC15": "Participant is not an active member of a specific settlement type.",
+    "RC16": "Originator of the instruction is not an active participant in SADC RTGS.",
+    "SBRN": "Settlement batch removal notification due to batch not funded at window closure by participants.",
+    "TERM": "Unrecognised or invalid effective date/time"
+  },
+  "description": "Specifies the reason for a rejected status",
+  "name": "ExternalRejectedReason1Code"
+}

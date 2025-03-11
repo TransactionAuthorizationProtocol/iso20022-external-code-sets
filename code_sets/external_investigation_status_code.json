@@ -1,0 +1,9 @@
+{
+  "codes": {
+    "CLSD": "Investigation is closed.",
+    "PDNG": "Investigation is opened/pending.",
+    "RJCT": "Investigation is rejected."
+  },
+  "description": "Specifies the investigation status, as published in an external investigation status code set.",
+  "name": "ExternalInvestigationStatus1Code"
+}

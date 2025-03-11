@@ -1,0 +1,12 @@
+{
+  "codes": {
+    "DISP": "Document is a dispatch advice.",
+    "FXDR": "Document is a pre-agreed or pre-arranged foreign exchange transaction to which the payment transaction refers.",
+    "PUOR": "Document is a purchase order.",
+    "RADM": "Document is a remittance advice sent separately from the current transaction.",
+    "RPIN": "Document is a linked payment instruction to which the current payment instruction is related, for example, in a cover scenario.",
+    "SCOR": "Document is a structured communication reference provided by the creditor to identify the referred transaction."
+  },
+  "description": "Specifies the type of creditor reference as published in an external creditor reference type code set.",
+  "name": "ExternalCreditorReferenceType1Code"
+}

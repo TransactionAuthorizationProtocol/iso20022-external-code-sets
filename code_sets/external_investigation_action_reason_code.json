@@ -1,0 +1,11 @@
+{
+  "codes": {
+    "IRCD": "Objection is raised as the compensation amount quoted on the investigation response appears incorrect.",
+    "IRIC": "Objection is raised as the data provided on the investigation response is insufficent to address the original request.",
+    "IRRR": "Closure is requested as the investigation request has been resolved by requestor.",
+    "IRSI": "Closure is requested as the investigation request was sent in error.",
+    "NARR": "See AdditionalInformation element for action reason."
+  },
+  "description": "Specifies the requested action, as published in an external investigation action code set.",
+  "name": "ExternalInvestigationActionReason1Code"
+}

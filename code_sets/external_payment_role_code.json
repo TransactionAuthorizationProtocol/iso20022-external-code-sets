@@ -1,0 +1,12 @@
+{
+  "codes": {
+    "BKMG": "Party responsible for managing the recovery functions related to a system.",
+    "LMMG": "Party in a financial institution responsible for the management of the limits. This party is responsible for fixing, modifying, or suspending limits as relevant for the management of counterpart risk or systemic risk containment.",
+    "LQMG": "Party in a financial institution responsible for the management of liquidity for the financial institution. This party has access to some functions available on the system, such as the liquidity transfers or management of standing instructions for liquidity control.",
+    "PYMG": "Party in a financial institution responsible for the management of payment processing for the financial institution. This includes authorising, recycling, and modification of payment transactions.",
+    "REDR": "Party in a financial institution entitled to obtain information from the system, but not act upon/alter this information.",
+    "STMG": "Party in a financial institution responsible for the management of settlement processing."
+  },
+  "description": "Specifies the role associated with a specific party in a payment instruction, as published in an external payment role code set.",
+  "name": "ExternalPaymentRole1Code"
+}

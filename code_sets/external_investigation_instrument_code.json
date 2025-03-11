@@ -1,0 +1,17 @@
+{
+  "codes": {
+    "ACHP": "Investigation is related to an ACH or mass payment.",
+    "CARD": "Investigation is related to a card transaction.",
+    "CHQB": "Investigation is related to a cheque.",
+    "DDTP": "Investigation is related to a direct debit.",
+    "DRFT": "Investigation is related to a draft.",
+    "INST": "Investigation is related to an instant credit transfer.",
+    "OTHR": "Other underlying instrument.",
+    "SRTP": "Investigation is related to a request to pay.",
+    "STAT": "Investigation is related to a statement entry.",
+    "URGP": "Investigation is related to a wire/high value payment.",
+    "XBCT": "Investigation is related to a cross border payment."
+  },
+  "description": "Specifies the type of instrument or product to which the investigation refers, as published in an external investigation instrument code set.",
+  "name": "ExternalInvestigationInstrument1Code"
+}

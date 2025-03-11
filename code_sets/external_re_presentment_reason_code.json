@@ -1,0 +1,11 @@
+{
+  "codes": {
+    "AMCR": "Amount corrected due to proof of transaction",
+    "CLSD": "Liability Shift to acquirer due to missing card authentication method denied",
+    "CRPI": "Credit previously issued",
+    "OTVA": "Original transaction was valid",
+    "VLSD": "Liability Shift to acquirer due to missing cardholder verification method denied"
+  },
+  "description": "Specifies the external representment reason code in the format of character string with a maximum length of 4 characters. The list of valid codes is an external code list published separately.",
+  "name": "ExternalRePresentmentReason1Code"
+}

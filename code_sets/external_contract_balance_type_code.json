@@ -1,0 +1,8 @@
+{
+  "codes": {
+    "EXPC": "Revolver loan current utilisation (applicable on loan contracts types)",
+    "EXPT": "Total loan utilisation for loans with total loan limit (applicable on loan contracts types)"
+  },
+  "description": "Specifies a contract balance type code, as published in the external ISO 20022 external code set.",
+  "name": "ExternalContractBalanceType1Code"
+}

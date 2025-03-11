@@ -1,0 +1,10 @@
+{
+  "codes": {
+    "ATMA": "Authentication provided through ATM",
+    "CARD": "Authentication provided through Card",
+    "INBA": "Authentication provided through Internet Banking",
+    "MOBI": "Authentication provided through Mobile"
+  },
+  "description": "Specifies the transaction authentication channel, as published in an external authentication channel code set.",
+  "name": "ExternalAuthenticationChannel1Code"
+}

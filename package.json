@@ -1,0 +1,30 @@
+{
+  "name": "@tap/iso20022_external_codes",
+  "version": "1.0.0",
+  "description": "ISO20022 external code sets as TypeScript enums",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist",
+    "code_sets"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "clean": "rimraf dist",
+    "prepare": "npm run clean && npm run build",
+    "extract": "python3 process_code_sets.py && python3 generate_ts_enums.py"
+  },
+  "keywords": [
+    "iso20022",
+    "finance",
+    "payments",
+    "typescript",
+    "enum"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "rimraf": "^6.0.0",
+    "typescript": "^5.8.0"
+  }
+}

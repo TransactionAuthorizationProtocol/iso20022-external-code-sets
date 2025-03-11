@@ -1,0 +1,8 @@
+{
+  "codes": {
+    "SETT": "Relates to the settlement date.",
+    "TRAD": "Relates to the trade date."
+  },
+  "description": "Specifies how the SSI update effective date is to be applied.",
+  "name": "ExternalEffectiveDateParameter1Code"
+}

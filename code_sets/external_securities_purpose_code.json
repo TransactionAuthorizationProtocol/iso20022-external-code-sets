@@ -1,0 +1,9 @@
+{
+  "codes": {
+    "COLL": "Relates to collateral management.",
+    "SECL": "Relates to securities lending.",
+    "STMT": "Relates to settlements."
+  },
+  "description": "Specifies the underlying reason code for an SSI instruction, in the format of character string with a maximum length of 4 characters.",
+  "name": "ExternalSecuritiesPurpose1Code"
+}

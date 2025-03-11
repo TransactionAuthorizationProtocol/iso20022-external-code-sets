@@ -1,0 +1,13 @@
+{
+  "codes": {
+    "ACRD": "Already existing creditor.",
+    "AM05": "Duplication.",
+    "FF01": "Invalid file format.",
+    "RF01": "Reference is not unique.",
+    "RR04": "Regulatory Reason.",
+    "RR10": "Invalid character set.",
+    "TRJT": "Technical rejection."
+  },
+  "description": "Specifies the debtor activation status reason code, as published in an external debtor activation status reason code set.",
+  "name": "ExternalDebtorActivationStatusReason1Code"
+}

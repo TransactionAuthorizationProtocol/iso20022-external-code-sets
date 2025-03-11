@@ -1,0 +1,13 @@
+{
+  "codes": {
+    "ACRD": "Already existing creditor.",
+    "AM05": "Duplication.",
+    "FF01": "Invalid file format.",
+    "RF01": "Reference is not unique.",
+    "RR04": "Regulatory Reason.",
+    "RR10": "Invalid character set.",
+    "TRJT": "Technical rejection."
+  },
+  "description": "Specifies the creditor enrolment status reason code, as published in an external creditor enrolment status reason code set.",
+  "name": "ExternalCreditorEnrolmentStatusReason1Code"
+}

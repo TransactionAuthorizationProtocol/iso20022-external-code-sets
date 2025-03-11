@@ -1,0 +1,11 @@
+{
+  "codes": {
+    "ACPT": "Message has been accepted.",
+    "PART": "Message has been partially accepted.",
+    "PDNG": "Message is pending further analysis and investigation.",
+    "RCVD": "Message has been received.",
+    "RJCT": "Message has been rejected."
+  },
+  "description": "Specifies the request status, as published in an external request status code set.",
+  "name": "ExternalRequestStatus1Code"
+}

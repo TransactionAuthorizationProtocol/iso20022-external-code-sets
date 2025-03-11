@@ -1,0 +1,9 @@
+{
+  "codes": {
+    "GOOD": "Percentage rate expressed relative to the value of goods.",
+    "PAYM": "Percentage rate expressed relative to the payment amount.",
+    "UNDG": "Percentage rate expressed relative to the undertaking amount."
+  },
+  "description": "Specifies the external relative to code in the format of a character string with a maximum length of 4 characters. The list of valid codes is an external code list published separately.",
+  "name": "ExternalRelativeTo1Code"
+}

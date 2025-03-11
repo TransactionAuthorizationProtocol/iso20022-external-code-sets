@@ -1,0 +1,19 @@
+{
+  "codes": {
+    "ADHR": "Ad hoc request.",
+    "CABB": "Competent Authority for Buyer Branch.",
+    "CABC": "Competent Authority for Basket Constituant.",
+    "CABT": "Competent Authority for Buyer Transmitting Firm.",
+    "CADB": "Competent Authority for Decision Making Branch.",
+    "CADU": "Competent Authority for Direct Underlying.",
+    "CAEB": "Competent Authority for Executing Branch.",
+    "CAFI": "Competent Authority for Instrument.",
+    "CAIX": "Competent Authority for Index.",
+    "CAMB": "Competent Authority for Membership Branch.",
+    "CASB": "Competent Authority for Seller Branch.",
+    "CAST": "Competent Authority for Seller Transmitting Firm.",
+    "CATV": "Competent Authority for Trading Venue."
+  },
+  "description": "Specifies the reason for the exchange with the national competent authority, as published in an external category purpose code list.",
+  "name": "ExternalAuthorityExchangeReason1Code"
+}

@@ -1,0 +1,13 @@
+{
+  "codes": {
+    "COMM": "Identifies categories of instruments that are commodities.",
+    "CRDT": "Identifies categories of instruments that are credits.",
+    "CURR": "Identifies categories of currency instruments.",
+    "EMAL": "Identifies categories of instruments related to emission allowance.",
+    "EQUI": "Identifies categories of instruments related to an equity.",
+    "INTR": "Identifies categories of instruments that are interest rates based.",
+    "OCTN": "Identifies categories of instruments classified as other C10."
+  },
+  "description": "Specifies the type of asset class a non-equity financial instrument can be classified as.",
+  "name": "ExternalProductType1Code"
+}

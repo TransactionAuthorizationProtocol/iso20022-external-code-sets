@@ -1,0 +1,19 @@
+{
+  "codes": {
+    "ACCC": "Settlement on the creditor's account has been completed.",
+    "ACCP": "Preceding check of technical validation was successful. Customer profile check was also successful.",
+    "ACSC": "Settlement on the debtor's account has been completed. Usage : this can be used by the first agent to report to the debtor that the transaction has been completed. Warning : this status is provided for transaction status reasons, not for financial information. It can only be used after bilateral agreement",
+    "ACSP": "All preceding checks such as technical validation and customer profile were successful and therefore the payment initiation has been accepted for execution.",
+    "ACTC": "Authentication and syntactical and semantical validation are successful",
+    "ACWC": "Instruction is accepted but a change will be made, such as date or remittance not sent.",
+    "PART": "A number of transactions have been accepted, whereas another number of transactions have not yet achieved 'accepted' status.",
+    "PDNG": "Payment initiation or individual transaction included in the payment initiation is pending. Further checks and status update will be performed.",
+    "RCVC": "Verification of Payee check have been applied to received transactions stating to be complete without mismatching data.",
+    "RCVD": "Payment initiation has been received by the receiving agent",
+    "RJCT": "Payment initiation or individual transaction included in the payment initiation has been rejected.",
+    "RVCM": "Verification of Payee checks have been applied to received transactions stating to be complete containing mismatching data.",
+    "RVNC": "Verification of party check on transactions received is not yet completed."
+  },
+  "description": "Specifies the status of a group of payment instructions, as published in an external payment group status code set.",
+  "name": "ExternalPaymentGroupStatus1Code"
+}

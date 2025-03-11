@@ -1,0 +1,25 @@
+{
+  "codes": {
+    "ANYY": "Any market area.",
+    "CASH": "Bank to bank cash movements.",
+    "COLL": "Collections.",
+    "COMM": "Precious metals and other commodities such as palm oil.",
+    "COPA": "Payment in which one of the parties is not a financial institution.",
+    "DERI": "Futures contracts, options, forward contracts, swaps, etc...",
+    "DOCC": "Documentary credits.",
+    "FOEX": "Foreign exchange.",
+    "GUAR": "Guarantees.",
+    "LETT": "Letters of credit.",
+    "LOAN": "Loans and deposits.",
+    "MMKT": "Money markets.",
+    "NDLF": "FX forward trade for which only balance is settled.",
+    "OFFS": "Offshore settlement.",
+    "ONSH": "Onshore settlement.",
+    "OPTI": "FX Options, swap options, etc...",
+    "SECU": "Bonds, equities, futures...",
+    "TFIN": "Documentary credits, collections, guarantees, letters of credit.",
+    "TREA": "Cash management activities."
+  },
+  "description": "Specifies the external market code, to which the instruction, operation or report relates, in the format of character string with a maximum length of 4 characters.",
+  "name": "ExternalMarketArea1Code"
+}

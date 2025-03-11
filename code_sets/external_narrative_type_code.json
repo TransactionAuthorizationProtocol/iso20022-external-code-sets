@@ -1,0 +1,13 @@
+{
+  "codes": {
+    "ADDI": "Narrative text describing the additional terms and conditions.",
+    "CHAR": "Narrative text describing the charge details.",
+    "DRAW": "Narrative text describing the drawing details.",
+    "PRAS": "Narrative text describing the assignment of proceeds terms and conditions.",
+    "TEFF": "Narrative text describing the terms of effectiveness.",
+    "TRNF": "Narrative text describing the transfer terms and conditions.",
+    "TVAR": "Narrative text describing the terms of variation."
+  },
+  "description": "Specifies the external narrative type code in the format of a character string with a maximum length of 4 characters. The list of valid codes is an external code list published separately.",
+  "name": "ExternalNarrativeType1Code"
+}

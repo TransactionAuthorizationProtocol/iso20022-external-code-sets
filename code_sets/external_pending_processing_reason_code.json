@@ -1,0 +1,16 @@
+{
+  "codes": {
+    "ADEA": "Received after the servicer's deadline. Processed on best effort basis",
+    "DISA": "Exceptional closing of all financial institutions due to natural disaster, for example, earthquake",
+    "ESCA": "Special follow-up is taking place",
+    "IAAD": "Pending reason being investigated",
+    "LPRO": "Longer processing timeframe for this type of SSI",
+    "MINF": "Information, for example, currency is missing",
+    "NEWI": "Financial instrument is a new issue and not yet available/tradable",
+    "NEXT": "Next process is launched. No processing pending problems to be reported",
+    "NSTP": "Instruction was not straight through processing and had to be processed manually",
+    "PRSY": "Transaction was put on hold/frozen by the system"
+  },
+  "description": "Specifies the reason for pending status.",
+  "name": "ExternalPendingProcessingReason1Code"
+}

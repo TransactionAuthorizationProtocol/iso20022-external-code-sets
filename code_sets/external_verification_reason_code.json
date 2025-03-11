@@ -1,0 +1,22 @@
+{
+  "codes": {
+    "AC01": "Account number provided in the request is invalid or missing.",
+    "AG01": "Transaction forbidden on this type of account (Payment cannot be made to this account for example not open for deposits, blocked, closed).",
+    "AGNT": "Agent identification provided in the request is incorrect",
+    "BNOR": "PSP is not registered under this Scheme.",
+    "DS28": "Return following technical problems resulting in erroneous transaction.",
+    "DUPL": "Request is a duplicate of another request",
+    "FF01": "File format incomplete or invalid.",
+    "MS03": "Reason has not been specified by agent.",
+    "NORR": "No response on request within timeframe.",
+    "NR01": "PSP not able to confirm details and no reason is stated.",
+    "PI01": "Account Owner Identification and Payment Account number do not match.",
+    "PN01": "Account Owner name and Payment Account number do not match.",
+    "PN02": "Account Owner name and Payment Account number is a close match.",
+    "RC03": "Debtor bank identifier is invalid or missing.",
+    "RC04": "Creditor bank identifier is invalid or missing.",
+    "TM01": "Associated message was received after agreed processing cut-off time."
+  },
+  "description": "Specifies the external verification reason code, as published in an external verification code set.",
+  "name": "ExternalVerificationReason1Code"
+}

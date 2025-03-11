@@ -1,0 +1,8 @@
+{
+  "codes": {
+    "CONF": "The document represents a document that has been confirmed, for example an invoice that has been confirmed by the buyer for payment.",
+    "FINV": "The document represents an invoice submitted under a factoring arrangment."
+  },
+  "description": "Specifies the document purpose as published in an external document purpose code list.",
+  "name": "ExternalDocumentPurpose1Code"
+}

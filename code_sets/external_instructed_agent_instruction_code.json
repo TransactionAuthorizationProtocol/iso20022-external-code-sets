@@ -1,0 +1,7 @@
+{
+  "codes": {
+    "REMD": "Reminder. A charge request message has been previously sent."
+  },
+  "description": "Specifies further instructions concerning the processing of a payment instruction or adjustment, as provided to the instructed agent.",
+  "name": "ExternalInstructedAgentInstruction1Code"
+}

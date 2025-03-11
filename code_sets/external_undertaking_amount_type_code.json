@@ -1,0 +1,8 @@
+{
+  "codes": {
+    "INCR": "Amount is an increase.",
+    "REDC": "Amount is a reduction."
+  },
+  "description": "Specifies the external undertaking amount type code in the format of a character string with a maximum length of 4 characters. The list of valid codes is an external code list published separately.",
+  "name": "ExternalUndertakingAmountType1Code"
+}

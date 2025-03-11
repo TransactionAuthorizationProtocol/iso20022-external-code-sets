@@ -1,0 +1,12 @@
+{
+  "codes": {
+    "FDMS": "Factoring service provider, Factoring client and third party in the same country",
+    "FEXP": "Factoring service provider, Factoring client in the same country, third party in another country",
+    "FFDM": "Factoring client and third party in the same country, Factoring service provider in another country",
+    "FFDT": "Factoring service provider, Factoring client and third party in the same country, but factoring client has an exceptional VAT ruling, for example if it\u2019s overseas",
+    "FIMP": "Factoring service provider and third party in the same country, Factoring client in another country",
+    "FREX": "Factoring service provider, Factoring client and third party in three different countries"
+  },
+  "description": "Specifies the external trade market code in the format of character string with a maximum length of 4 characters.",
+  "name": "ExternalTradeMarket1Code"
+}

@@ -1,0 +1,13 @@
+{
+  "codes": {
+    "EAMT": "Trade will be settled early.",
+    "PEAM": "Trade will be partially settled early.",
+    "PRUR": "Part of the trade will be settled on its original date and the remainder will rollover.",
+    "PRUW": "Part of the trade will not be settled.",
+    "ROLL": "Rollover of a previous trade.",
+    "UNWD": "Trade will not be settled.",
+    "UNWR": "Original trade will not settle on its original date, but will be rolled over."
+  },
+  "description": "Specifies the type of post trade event, as published in an external post trade event type code set.",
+  "name": "ExternalPostTradeEventType1Code"
+}

@@ -1,0 +1,9 @@
+{
+  "codes": {
+    "ADVN": "Goods/service delivered after payment",
+    "PMNT": "Goods/service delivered at the same time as payment.",
+    "TRLN": "Goods/service delivered before payment"
+  },
+  "description": "Specifies a shipment conditions code, as published in the external ISO 20022 external code set.",
+  "name": "ExternalShipmentCondition1Code"
+}

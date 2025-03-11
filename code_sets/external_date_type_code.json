@@ -1,0 +1,10 @@
+{
+  "codes": {
+    "INDA": "Relates to the invoice date.",
+    "NTAV": "Date type is not available.",
+    "NXBD": "Relates to the next billing date.",
+    "PADD": "Relates to the payment due date."
+  },
+  "description": "Defines the type of date, as published in an external date type code list.",
+  "name": "ExternalDateType1Code"
+}

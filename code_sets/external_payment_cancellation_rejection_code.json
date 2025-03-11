@@ -1,0 +1,32 @@
+{
+  "codes": {
+    "AACR": "Request-to-pay (RTP) has already been accepted.",
+    "AC04": "Account number specified has been closed on the receiver\u2019s books.",
+    "ACLR": "Request-to-pay has already been cancelled.",
+    "ADAC": "Reported when the cancellation request cannot be processed because customer has not yet provided the debit authority on its account.",
+    "AEXR": "Request-to-pay Expiry Date and Time has already passed.",
+    "AGNT": "Reported when the cancellation cannot be accepted because of an agent refuses to cancel.",
+    "AM04": "Amount of funds available to cover specified message amount is insufficient.",
+    "ARDT": "Cancellation not accepted as the transaction has already been returned.",
+    "ARFR": "Request-to-pay has already been refused by the Debtor.",
+    "ARJR": "Request-to-pay has already been rejected.",
+    "ARPL": "Reported when the cancellation request cannot be processed because no reply has been received yet from the receiver of the request message.",
+    "CUST": "Reported when the cancellation cannot be accepted because of a customer decision (Creditor).",
+    "IDMN": "Complementing a Pending or Reject Status. Payment cancellation request cannot be accepted until an indemnity agreement is established.",
+    "LEGL": "Reported when the cancellation cannot be accepted because of regulatory rules.",
+    "NARR": "Reason is provided as narrative information in the additional reason information.",
+    "NOAS": "No response from beneficiary (to the cancellation request).",
+    "NOOR": "Original transaction (subject to cancellation) never received.",
+    "PATE": "Payment related to the request-to-pay has already been transmitted for execution.",
+    "PTNA": "Reported when the cancellation request cannot be accepted because the payment instruction has been passed to the next agent.",
+    "RCAR": "Request for cancellation of the request-to-pay has already been rejected.",
+    "RCNR": "Request for cancellation of the request-to-pay has never been received.",
+    "RCPR": "Request for cancellation of the request-to-pay has already been received and processed.",
+    "RQDA": "Reported when authority is required by the Creditor to return the payment.",
+    "RR04": "Regulatory Reason.",
+    "URTP": "Request-to-pay is unknown.",
+    "WSEQ": "Reported when the cancellation request cannot be processed because the sequence referred to in the request is not valid."
+  },
+  "description": "Specifies the reason for the rejection of a cancellation, as published in an external payment cancellation rejection code set.",
+  "name": "ExternalPaymentCancellationRejection1Code"
+}

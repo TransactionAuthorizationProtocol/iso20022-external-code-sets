@@ -1,0 +1,11 @@
+{
+  "codes": {
+    "CERE": "Commodity attribute of type emissions allowance CER (Certified Emission Reduction).",
+    "ERUE": "Commodity attribute of type emissions allowance ERU (European Reduction Unit).",
+    "EUAA": "Commodity attribute of type emissions allowance EUAA (European Union Aviation Allowance).",
+    "EUAE": "Commodity attribute of type emissions allowance EUA (European Union Allowance).",
+    "OTHR": "Commodity attribute of other type."
+  },
+  "description": "Specifies the detailed sub products types allowed for emission allowances and associated derivatives.",
+  "name": "ExternalEmissionAllowanceSubProductType1Code"
+}

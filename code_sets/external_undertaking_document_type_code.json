@@ -1,0 +1,11 @@
+{
+  "codes": {
+    "BENS": "Document is a beneficiary statement.",
+    "CINV": "Document is an invoice.",
+    "CLAF": "Document is a claim form.",
+    "DEMD": "Document is an undertaking demand.",
+    "TRAF": "Document is a transfer form."
+  },
+  "description": "Specifies the external undertaking document type code in the format of a character string with a maximum length of 4 characters. The list of valid codes is an external code list published separately.",
+  "name": "ExternalUndertakingDocumentType1Code"
+}

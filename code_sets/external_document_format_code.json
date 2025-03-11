@@ -1,0 +1,11 @@
+{
+  "codes": {
+    "DPDF": "Document format is PDF.",
+    "DXML": "Document format is XML.",
+    "SDSH": "Document format is a spreadsheet.",
+    "WORD": "Document format is Word.",
+    "XSLT": "Document format is XSLT."
+  },
+  "description": "Specifies the external document format code in the format of a character string with a maximum length of 4 characters. The list of valid codes is an external code list published separately.",
+  "name": "ExternalDocumentFormat1Code"
+}

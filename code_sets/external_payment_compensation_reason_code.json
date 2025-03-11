@@ -1,0 +1,7 @@
+{
+  "codes": {
+    "VADA": "Compensation requested for value date correction."
+  },
+  "description": "Specifies the reason for compensation for the processing of a payment, as published in an external code set.",
+  "name": "ExternalPaymentCompensationReason1Code"
+}

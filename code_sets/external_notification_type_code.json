@@ -1,0 +1,19 @@
+{
+  "codes": {
+    "ADDR": "Notification of a change of address.",
+    "ATAC": "Notification of new or amended terms and conditions for an account.",
+    "COUP": "Notification of new or amended contact details.",
+    "CUHO": "Notification of a currency holiday.",
+    "INCH": "Notification of any pertinent industry or market changes.",
+    "INFO": "Sharing of information.",
+    "MERG": "Notification of a merger and any associated changes.",
+    "OPEN": "Notification of a change to opening hours.",
+    "OTHR": "Other notification type.",
+    "SSIS": "Notification of a change to Standing Settlement Instructions (SSIs).",
+    "SUSP": "Notification of a process suspension due to an incident.",
+    "SYST": "Request for access to a system.",
+    "TERM": "Notification of termination of a service, such as an account closure."
+  },
+  "description": "Specifies the notification type, as published in an external notification type code set.",
+  "name": "ExternalNotificationType1Code"
+}

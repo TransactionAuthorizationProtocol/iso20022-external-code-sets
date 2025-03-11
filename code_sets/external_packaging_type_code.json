@@ -1,0 +1,10 @@
+{
+  "codes": {
+    "HDPE": "Packaging is high density polyethylene.",
+    "LDPE": "Packaging is low density polyethylene.",
+    "LLDP": "Packaging is linear low density polyethylene.",
+    "OTHR": "Other packaging type not otherwise specified."
+  },
+  "description": "Specifies the packaging type as published in an external packaging type code list.",
+  "name": "ExternalPackagingType1Code"
+}

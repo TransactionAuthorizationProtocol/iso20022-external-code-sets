@@ -1,0 +1,12 @@
+{
+  "codes": {
+    "CTAM": "Mandate suspended due to amendment of the contract.",
+    "CTCA": "Mandate suspended due to cancellation of the contract, requested by the debtor.",
+    "CTEX": "Mandate suspended due to the contract that expired.",
+    "MCFC": "Mandate suspended as final collection took place.",
+    "MCOC": "Mandate suspended as the once off collection took place.",
+    "MSUC": "Mandate suspended after 7 consecutive unsuccessful collections."
+  },
+  "description": "Specifies the external mandate suspension reason code in the format of character string with a maximum length of 4 characters.",
+  "name": "ExternalMandateSuspensionReason1Code"
+}

@@ -1,0 +1,11 @@
+{
+  "codes": {
+    "CUST": "Customer requested to stop/cancel the cheque.",
+    "DUPL": "Cheque has been issued in duplication of another cheque.",
+    "FRAD": "Cheque has been issued fraudulently.",
+    "LOST": "Cheque has been stolen/lost.",
+    "NARR": "Reason is provided as narrative information in the additional reason information."
+  },
+  "description": "Specifies the external cheque cancellation reason code in the format of character string with a maximum length of 4 characters.",
+  "name": "ExternalChequeCancellationReason1Code"
+}

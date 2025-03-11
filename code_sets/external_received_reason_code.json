@@ -1,0 +1,7 @@
+{
+  "codes": {
+    "NSTP": "Instruction was not straight through processing and had to be processed manually"
+  },
+  "description": "Specifies the reason for a received status.",
+  "name": "ExternalReceivedReason1Code"
+}

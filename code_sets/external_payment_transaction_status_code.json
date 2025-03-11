@@ -1,0 +1,31 @@
+{
+  "codes": {
+    "ACCC": "Settlement on the creditor's account has been completed.",
+    "ACCP": "Preceding check of technical validation was successful. Customer profile check was also successful.",
+    "ACFC": "Preceding check of technical validation and customer profile was successful and an automatic funds check was positive.",
+    "ACFW": "Preceding check of technical validation and customer profile was successful, and an automatic funds check was positive, but an explicit confirmation by the initiating party is outstanding.",
+    "ACIS": "Payment instruction to issue a cheque has been accepted, and the cheque has been issued but not yet been deposited or cleared.",
+    "ACPD": "Status of transaction released from the Debtor Agent and accepted by the clearing.",
+    "ACSC": "Settlement completed. Usage : this can be used by a Market Infrastructure reporting to Infrastructure Participant or an Account Servicer to Account Owner to report that the transaction account entry has been completed. Warning : this status is provided for transaction status reasons, not for financial information. It can only be used after bilateral agreement",
+    "ACSP": "All preceding checks such as technical validation and customer profile were successful and therefore the payment instruction has been accepted for execution.",
+    "ACTC": "Authentication and syntactical and semantical validation are successful",
+    "ACWC": "Instruction is accepted but a change will be made, such as date or remittance not sent.",
+    "ACWP": "Payment instruction included in the credit transfer is accepted without being posted to the creditor customer\u2019s account.",
+    "BLCK": "Payment transaction previously reported with status 'ACWP' is blocked, for example, funds will neither be posted to the Creditor's account, nor be returned to the Debtor.",
+    "CANC": "Payment initiation has been successfully cancelled after having received a request for cancellation. Usage: code to be used in the context of APIs only.",
+    "CPUC": "Cash has been picked up by the Creditor.",
+    "PATC": "Payment initiation needs multiple authentications, where some but not yet all have been performed. Syntactical and semantical validations are successful.",
+    "PDNG": "Payment instruction is pending. Further checks and status update will be performed.",
+    "PRES": "Request for Payment has been presented to the Debtor.",
+    "RCVC": "Verification of Payee check has been applied to received transaction stating to be complete without mismatching data.",
+    "RCVD": "Payment instruction has been received.",
+    "RJCT": "Payment instruction has been rejected.",
+    "RVCM": "Verification of Payee checks have been applied to received transaction stating to be completed containing mismatching data.",
+    "RVMC": "Verification of Payee check has been applied to received transaction stating to be complete with data matching closely.",
+    "RVNA": "Verification of Payee check has been applied to received transaction stating to be complete with not applicable data.",
+    "RVNC": "Verification of party check on the transaction is not yet completed.",
+    "RVNM": "Verification of Payee check has been applied to received transaction stating to be complete with mismatching data."
+  },
+  "description": "Specifies the status of an individual payment instructions, as published in an external payment transaction status code set.",
+  "name": "ExternalPaymentTransactionStatus1Code"
+}

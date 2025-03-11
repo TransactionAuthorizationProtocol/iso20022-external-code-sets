@@ -1,0 +1,10 @@
+{
+  "codes": {
+    "CCTR": "Identifies the validation rules related to the Russian Cross-border Transactions Currency Control Reporting",
+    "ITRP": "Identifies the validation rules related to the invoice tax reporting",
+    "MMSR": "Identifies the validation rule scheme related to the ECB Euro Money Market Statistical Reporting",
+    "SMMD": "Identifies the validation rules related to the Bank Of England Sterling Money Market Daily Reporting"
+  },
+  "description": "Specifies the external validation rule identification scheme name code in the format of character string with a maximum length of 4 characters.",
+  "name": "ExternalValidationRuleIdentification1Code"
+}

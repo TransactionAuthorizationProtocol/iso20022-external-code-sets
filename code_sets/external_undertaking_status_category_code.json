@@ -1,0 +1,15 @@
+{
+  "codes": {
+    "AMND": "Status is related to an undertaking amendment.",
+    "AMTC": "Status is related to a counter-undertaking amount.",
+    "AMTU": "Status is related to an undertaking amount.",
+    "APPL": "Status is related to an undertaking application.",
+    "BAMD": "Status is related to an undertaking amendment requested by the beneficiary.",
+    "CONF": "Status is related to an undertaking confirmation.",
+    "DEMD": "Status is related to an undertaking demand.",
+    "NEXT": "Status is related to an undertaking non-extension request.",
+    "TERM": "Status is related to an undertaking termination."
+  },
+  "description": "Specifies the external status stage code in the format of a character string with a maximum length of 4 characters. The list of valid codes is an external code list published separately.",
+  "name": "ExternalUndertakingStatusCategory1Code"
+}

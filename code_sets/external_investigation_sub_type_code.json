@@ -1,0 +1,12 @@
+{
+  "codes": {
+    "AMLI": "Investigation relates to anti-money laundering.",
+    "FCCI": "Investigation relates to financial crimes compliance.",
+    "FRAD": "Investigation relates to fraud.",
+    "FWTR": "Investigation relates to funds/wire transfer regulation.",
+    "SANC": "Investigation relates to sanctions.",
+    "UTEX": "Investigation relates to a transaction that cannot be executed."
+  },
+  "description": "Specifies the investigation sub type, as published in an external investigation sub type code set.",
+  "name": "ExternalInvestigationSubType1Code"
+}

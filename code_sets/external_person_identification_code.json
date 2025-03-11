@@ -1,0 +1,17 @@
+{
+  "codes": {
+    "ARNU": "Number assigned by a social security agency to identify a non-resident person.",
+    "BANK": "Unique and unambiguous assignment made by a specific bank or similar financial institution to identify a relationship as defined between the bank and its client.",
+    "CCPT": "Number assigned by an authority to identify the passport number of a person.",
+    "CUST": "Number assigned by an issuer to identify a customer.",
+    "DRLC": "Number assigned by an authority to identify a driver's license.",
+    "EMPL": "Number assigned by a registration authority to an employee.",
+    "NIDN": "Number assigned by an authority to identify the national identity number of a person.",
+    "POID": "Commercial identification of the person.",
+    "SOSE": "Number assigned by an authority to identify the social security number of a person.",
+    "TELE": "Number assigned by a telephone or mobile phone operator to identify a person. A person may have multiple phone numbers.",
+    "TXID": "Number assigned by a tax authority to identify a person."
+  },
+  "description": "Specifies the external person identification scheme name code in the format of character string with a maximum length of 4 characters.",
+  "name": "ExternalPersonIdentification1Code"
+}

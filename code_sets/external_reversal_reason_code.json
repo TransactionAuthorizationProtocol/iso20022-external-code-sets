@@ -1,0 +1,17 @@
+{
+  "codes": {
+    "AC03": "Wrong IBAN in SCT",
+    "AC04": "Account number specified has been closed on the Receiver's books",
+    "AG02": "Bank Operation code specified in the message is not valid for receiver",
+    "AM05": "Duplication",
+    "AM09": "Wrong amount in SCT",
+    "MD01": "No Mandate",
+    "MD05": "Creditor or creditor's agent should not have collected the direct debit",
+    "MS02": "Reason has not been specified by end customer",
+    "MS03": "Reason has not been specified by agent.",
+    "RC07": "Wrong BIC in SCT",
+    "TM01": "Associated message was received after agreed processing cut-off time."
+  },
+  "description": "Specifies the reversal reason, as published in an external reversal reason code list.",
+  "name": "ExternalReversalReason1Code"
+}

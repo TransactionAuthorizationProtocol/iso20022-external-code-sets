@@ -1,0 +1,12 @@
+{
+  "codes": {
+    "BLKD": "Amount blocked or frozen due to external circumstances such as a court order, death of beneficiary or account owner, or bankruptcy.",
+    "CARE": "Amount set aside by a participant to reserve liquidity from its own account, exclusively or executing cash withdrawals.",
+    "HPAR": "Amount set aside by a participant to reserve liquidity from its own account, exclusively for executing highly urgent payments.",
+    "NSSR": "Amount set aside by a participant to reserve liquidity from its own account, exclusively for the settlement of the multilateral cash balance stemming from the Net Security Settlement System.",
+    "THRE": "Amount above which funds will be destined for investment.",
+    "UPAR": "Amount set aside by a participant to reserve liquidity from its own account, exclusively for executing critical payments called urgent payments."
+  },
+  "description": "Specifies the type of reservation, as published in an external reservation type code set.",
+  "name": "ExternalReservationType1Code"
+}

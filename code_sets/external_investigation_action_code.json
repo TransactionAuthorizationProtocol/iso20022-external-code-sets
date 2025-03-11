@@ -1,0 +1,9 @@
+{
+  "codes": {
+    "RQCL": "Responder is requested to close the investigation. All investigation requests relating to the investigation may be disregarded.",
+    "RQOB": "Responder is requested to review an earlier response as the requestor objects to it.",
+    "RQST": "Responder is requested to provide the status of the investigation."
+  },
+  "description": "Specifies the requested action, as published in an external investigation action code set.",
+  "name": "ExternalInvestigationAction1Code"
+}

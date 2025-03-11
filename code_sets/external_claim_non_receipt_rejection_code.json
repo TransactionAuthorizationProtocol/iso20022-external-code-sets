@@ -1,0 +1,11 @@
+{
+  "codes": {
+    "ARDT": "Already returned original SCT (SEPA Credit Transfer).",
+    "ARJT": "Already rejected original SCT (SEPA Credit Transfer).",
+    "NOOR": "Original credit transfer never received.",
+    "RNPR": "Original credit transfer was received but is not processable.",
+    "RR04": "Regulatory reason."
+  },
+  "description": "Specifies the reason for the rejection of a claim non receipt, as published in an external claim non receipt rejection code set.",
+  "name": "ExternalClaimNonReceiptRejection1Code"
+}

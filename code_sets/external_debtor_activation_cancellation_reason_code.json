@@ -1,0 +1,12 @@
+{
+  "codes": {
+    "AM05": "Duplication.",
+    "CUST": "Cancellation requested by the customer.",
+    "RF01": "Reference is not unique.",
+    "RR04": "Regulatory Reason.",
+    "TRJT": "Technical rejection.",
+    "UCRD": "Unknown creditor."
+  },
+  "description": "Specifies the debtor activation cancellation reason code, as published in an external debtor activation cancellation reason code set.",
+  "name": "ExternalDebtorActivationCancellationReason1Code"
+}

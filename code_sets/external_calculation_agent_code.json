@@ -1,0 +1,10 @@
+{
+  "codes": {
+    "CNTP": "Counterparty side will act.",
+    "ISDA": "As defined in the ISDA Master Agreement.",
+    "JOIN": "Trading side and counterparty side will jointly act.",
+    "TRAD": "Trading side will act."
+  },
+  "description": "Specifies the calculation agent, as published in an external calculation agent code list.",
+  "name": "ExternalCalculationAgent1Code"
+}
