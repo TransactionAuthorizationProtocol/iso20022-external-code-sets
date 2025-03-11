@@ -4,7 +4,7 @@ This package provides a collection of ISO20022 external code sets used in financ
 
 It is designed to make it easy to map the [Transaction Authorization Protocol](https://tap.rsvp) into usecases where swift is currently working.
 
-[![npm version](https://img.shields.io/npm/v/@tap/iso20022_external_codes.svg)](https://www.npmjs.com/package/@tap/iso20022_external_codes)
+[![npm version](https://img.shields.io/npm/v/@taprsvp/iso20022_external_codes.svg)](https://www.npmjs.com/package/@taprsvp/iso20022_external_codes)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Overview
@@ -24,7 +24,7 @@ The data is based on the official [ISO20022 External Code Sets](https://www.iso2
 ## Installation
 
 ```bash
-npm install @tap/iso20022_external_codes
+npm install @taprsvp/iso20022_external_codes
 ```
 
 ## Usage
@@ -32,7 +32,7 @@ npm install @tap/iso20022_external_codes
 ### TypeScript
 
 ```typescript
-import { Purpose, ServiceLevel, CategoryPurpose } from '@tap/iso20022_external_codes';
+import { Purpose, ServiceLevel, CategoryPurpose } from '@taprsvp/iso20022_external_codes';
 
 // Use the enums in your code
 const purpose = Purpose.CASH;  // "CASH"
