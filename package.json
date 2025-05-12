@@ -21,10 +21,10 @@
     "typescript",
     "enum"
   ],
-  "author": "Pelle Braendgaard <pelleb@gmail.com",
+  "author": "Pelle Braendgaard <pelleb@gmail.com>",
   "license": "MIT",
   "devDependencies": {
     "rimraf": "^6.0.0",
-    "typescript": "^5.8.0"
+    "typescript": "^5.3.3"
   }
 }
