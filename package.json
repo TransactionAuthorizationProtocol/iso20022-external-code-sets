@@ -1,6 +1,6 @@
 {
   "name": "@taprsvp/iso20022_external_codes",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "ISO20022 external code sets as TypeScript enums",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
